@@ -8,4 +8,11 @@
 
 /* facebook logo font
     font-family: 'Montserrat', sans-serif;
-/*
+*/
+
+main {
+    background-color: #c5cace;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
